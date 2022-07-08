@@ -1,8 +1,8 @@
 const BLOG = {
-  title: 'yyy',
-  author: 'Craig Hart',
-  email: 'i@craigary.net',
-  link: 'https://nobelium.vercel.app',
+  title: '见我如雪山观',
+  author: '王三',
+  email: 'wbylink@gmail.com',
+  link: 'https://Naderio.vercel.app',
   description: 'This gonna be an awesome website.',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
